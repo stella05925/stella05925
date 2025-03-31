@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @stella05925
-- 👀 I’m interested in computer vision👁️ + graphics💻, quantum computing⚛️, architecture🏛️ + design🖌️!
+- 👀 I’m interested in computer vision👁️ + graphics💻, machine learning🤖, architecture🏛️ + design🖌️!
 - 📫 How to reach me: jla930@sfu.ca
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love to fence🤺and ski⛷️as hobbies!
