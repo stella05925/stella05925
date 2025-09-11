@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @stella05925
+- 👋 Hi, I’m Stella
 - 👀 I’m interested in computer vision👁️ + graphics💻, machine learning🤖, architecture🏛️ + design🖌️!
 - 📫 How to reach me: jla930@sfu.ca
 - 😄 Pronouns: she/her
